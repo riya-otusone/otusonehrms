@@ -1,0 +1,4 @@
+com\ticket\book\entity\Ticket.class
+com\ticket\book\controller\TicketController.class
+com\ticket\book\BookApplication.class
+com\ticket\book\repository\TicketRepository.class
